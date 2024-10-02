@@ -15,5 +15,4 @@ Speaking of my skillset, I'm already fimilar with Python, HTML, CSS & SQL. Right
 
 
 ##### Btw this is me learning JavaScript
-![alt text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajcxZDZocmxkemdmeTBwNjg3ZGUydWFoZXJqNWV3Znhla296cHZwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif)
-
+<img align="left" alt="Coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajcxZDZocmxkemdmeTBwNjg3ZGUydWFoZXJqNWV3Znhla296cHZwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif">

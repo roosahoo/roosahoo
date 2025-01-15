@@ -7,7 +7,7 @@ Speaking of my skillset, I'm already fimilar with Python, SQL, HTML & CSS. Right
 
 
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/roosa-h-5546b8321/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roosa-h-5546b8321" height="30" width="40" /></a>
 <a href="https://www.instagram.com/hamula.png/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamula.png" height="30" width="40" /></a>
@@ -15,12 +15,12 @@ Speaking of my skillset, I'm already fimilar with Python, SQL, HTML & CSS. Right
 </p>
 
 
-##### 👇 Btw this is me learning JS 👇
+##### 👇 Btw this is me coding 👇
 
-<img align="left" alt="Coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajcxZDZocmxkemdmeTBwNjg3ZGUydWFoZXJqNWV3Znhla296cHZwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif">
+<img align="center" alt="Coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajcxZDZocmxkemdmeTBwNjg3ZGUydWFoZXJqNWV3Znhla296cHZwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif">
 
 
-##### Languages and Tools:
+### Languages and Tools:
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 

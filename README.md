@@ -1,9 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=roosahoo&color=ff69b4)
 # About me
-Hey there 👋 I'm Roosa a 23 y/o developer from Finland. Currently I'm pursuing my degree in ICT and will be graduating in spring 2025 😁.
-My preferred programming language is Python.
+#### Hey there 👋
+I'm Roosa, a Software Developer based in Finland. Currently, I'm pursuing a degree in ICT and am on track to graduate in spring 2025. 🎓
 
-Speaking of my skillset, I'm already fimilar with Python, SQL, JavaScript, HTML & CSS
+I specialize in Python, which is my preferred programming language, and I also have experience with SQL, JavaScript, HTML, and CSS. I’m passionate about creating efficient, user-friendly solutions and continuously improving my skills in software development.
+
+Feel free to explore my projects or connect with me — I'm always open to collaboration and new opportunities!
 
 
 

@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=roosahoo&color=ff69b4)
 # About me
-#### Hey there 👋
+#### Hey there 👋 joo
 I'm a Software Developer based in Finland. Currently, I'm pursuing a degree in ICT and am on track to graduate in spring 2025. 🎓
 
 I specialize in Python, which is my preferred programming language, and I also have experience with SQL, JavaScript, HTML, and CSS. I’m passionate about creating efficient, user-friendly solutions and continuously improving my skills in software development.

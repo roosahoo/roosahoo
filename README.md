@@ -5,7 +5,7 @@ I'm a Software Developer based in Finland. Currently, I'm pursuing a degree in I
 
 I specialize in Python, which is my preferred programming language, and I also have experience with SQL, JavaScript, HTML, and CSS. I’m passionate about creating efficient, user-friendly solutions and continuously improving my skills in software development.
 
-Feel free to explore my projects or connect with me — I'm always open to collaboration and new opportunities!
+Feel free to explore my projects or connect with me — I'm open to collaboration and new opportunities!
 
 
 

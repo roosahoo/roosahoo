@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=roosahoo&color=ff69b4)
-# About 
+# About
 #### Hey there 👋
 I'm a Software Developer based in Finland. Currently, I'm pursuing a degree in ICT and am on track to graduate in spring 2025. 🎓
 

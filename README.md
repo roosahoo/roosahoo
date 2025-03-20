@@ -9,7 +9,7 @@ Feel free to explore my projects or connect with me — I'm open to collaboratio
 
 
 
-### Connect with 
+### Connect with
 <p align="left">
 <a href="https://www.linkedin.com/in/roosa-h-5546b8321/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roosa-h-5546b8321" height="30" width="40" /></a>
 <a href="https://www.instagram.com/hamula.png/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamula.png" height="30" width="40" /></a>

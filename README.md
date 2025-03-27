@@ -1,4 +1,4 @@
-
+![](https://komarev.com/ghpvc/?username=roosahoo&color=ff69b4)
 # About me
 #### Hey there 👋
 I'm a Developer who loves turning ideas to life through code.

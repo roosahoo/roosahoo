@@ -1,11 +1,11 @@
-![](https://komarev.com/ghpvc/?username=roosahoo&color=ff69b4)
+
 # About me
 #### Hey there 👋
-I'm a Software Developer based in Finland. Currently, I'm pursuing a degree in ICT and am on track to graduate in spring 2025. 🎓
+I'm a Developer who loves turning ideas to life through code.
 
-I specialize in Python, which is my preferred programming language, and I also have experience with SQL, JavaScript, React, HTML, and CSS. I’m passionate about creating efficient, user-friendly solutions and continuously improving my skills in software development.
+Right now, I’m all about React — building interactive, dynamic web applications and constantly exploring new ways to level up my skills. Alongside React, I work with JavaScript, Python, SQL, HTML, and CSS to create seamless and engaging experiences.
 
-Feel free to explore my projects or connect with me — I'm open to collaboration and new opportunities!
+I’m open to collaboration and new opportunities, so feel free to check out my projects and connect with me! 
 
 
 

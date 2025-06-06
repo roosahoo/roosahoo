@@ -3,7 +3,7 @@
 #### Hey there 👋
 I'm a Developer who loves turning ideas to life through code.
 
-Right now, I’m all about React — building interactive, dynamic web applications and constantly exploring new ways to level up my skills. Alongside React, I work with JavaScript, TypeScript, Python, SQL, HTML, and CSS to create seamless and engaging experiences.
+Right now, I’m all about React and building interactive, dynamic web applications and constantly exploring new ways to level up my skills. Alongside React, I work with JavaScript, TypeScript, Python, SQL, HTML, and CSS to create seamless and engaging experiences.
 
 I’m open to collaboration and new opportunities, so feel free to check out my projects and connect with me! 
 
